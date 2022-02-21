@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.search-box{
+  width: 400px;
+  padding: 5px;
+  border-radius: 10px;
+}
+/* .navbar>{
+
+}
+.search{
+  width: 400px;
+  padding: 5px;
+} */
